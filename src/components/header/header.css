@@ -1,0 +1,39 @@
+.headerRow {
+    padding-top: 20px;
+
+}
+.leftHeader {
+    background-color: aqua;
+}
+
+.centerHeader {
+    background-color: #fff;
+}
+
+.rightHeader {
+    margin-top: 40px;
+}
+
+.contentHeader {
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+.leftLogoContent {
+    margin-left: 20px;
+}
+
+.leftLogoContents {
+    margin-left: 38px;
+    color: #f53636;
+}
+
+.buttonHeader {
+    margin-left: 80px;
+    margin-top: -20px;
+}
+
+.logoHeader {
+    margin-left: 60px;
+}
+
