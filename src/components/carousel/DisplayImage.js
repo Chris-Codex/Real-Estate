@@ -14,13 +14,7 @@ const DisplayImage = () => {
     return (
       <Carousel activeIndex={index} onSelect={handleSelect}>
         <Carousel.Item>
-          <img
-            className="d-block w-100"
-            src={logo}
-            width={1200}
-            height={700}
-            alt="First slide"
-          />
+          <img className="d-block w-100" src={logo} alt="First slide" />
           <Carousel.Caption>
             <h3>Sell your home on your terms</h3>
             <p>
@@ -33,13 +27,7 @@ const DisplayImage = () => {
         </Carousel.Item>
 
         <Carousel.Item>
-          <img
-            className="d-block w-100"
-            src={logo2}
-            width={1200}
-            height={700}
-            alt="First slide"
-          />
+          <img className="d-block w-100" src={logo2} alt="First slide" />
           <Carousel.Caption>
             <h3>Third slide label</h3>
             <p>

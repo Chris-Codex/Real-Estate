@@ -1,0 +1,35 @@
+.section {
+    background-color: #000;
+    margin-top: 50px;
+}
+
+.section-contact {
+    background-color: #f53636;
+    height: 80px;
+}
+
+.form_control_one {
+    margin-top: 20px;
+}
+
+.label {
+    color: #fff;
+    margin-top: 10px;
+}
+
+.label_one {
+    color: #fff;
+    margin-top: 10px;
+  
+}
+
+.privacy {
+    color: #f53636;
+}
+
+.button_submit {
+    width: 200px;
+    background-color: #82ed91;
+    font-weight: bolder;
+    margin-bottom: 30px;
+}
