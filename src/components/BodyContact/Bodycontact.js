@@ -1,6 +1,9 @@
 import React from "react";
 import "./bodycontact.css";
 import { Container, Row, Col, Form, Button } from "react-bootstrap";
+import { FaPhoneAlt } from "react-icons/fa";
+import { FaMedium } from "react-icons/fa";
+import logoAfrica from "../Images/mapAfrica.png";
 
 const Bodycontact = () => {
   return (
@@ -63,13 +66,52 @@ const Bodycontact = () => {
                 </Row>
               </Col>
 
-              <Col xs={6} md={6}></Col>
+              <Col xs={12} md={6}>
+                <div className="logoAfrica">
+                  <center>
+                    <img src={logoAfrica} alt="logo" />
+                  </center>
+                </div>
+              </Col>
             </Row>
           </Form>
         </Container>
       </div>
 
-      <div className="section-contact">dsadadc</div>
+      <div className="section-contact">
+        <Container>
+          <Row>
+            <center>
+              <div className="contact-content">
+                <h2>DON'T BE SHY</h2>
+                <p>
+                  Feel free to get in touch withus. We are always open to for
+                  discussion at all times. W are here to serve you better.
+                </p>
+              </div>
+            </center>
+          </Row>
+
+          <Row>
+            <Col xs={12} md={3}></Col>
+            <Col xs={12} md={3}>
+              <div className="fa-mail">
+                <p>
+                  <FaMedium /> &nbsp;&nbsp; Call us: 0899786536
+                </p>
+              </div>
+            </Col>
+            <Col xs={12} md={3}>
+              <div className="fa-mail">
+                <p>
+                  <FaMedium /> &nbsp;&nbsp; Mail us: info@christian.com
+                </p>
+              </div>
+            </Col>
+            <Col xs={12} md={3}></Col>
+          </Row>
+        </Container>
+      </div>
     </>
   );
 };

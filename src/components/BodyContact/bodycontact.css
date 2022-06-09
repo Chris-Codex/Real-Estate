@@ -5,7 +5,7 @@
 
 .section-contact {
     background-color: #f53636;
-    height: 80px;
+    height: 150px;
 }
 
 .form_control_one {
@@ -27,9 +27,15 @@
     color: #f53636;
 }
 
+.contact-content {
+    color: #fff;
+    margin-top: 20px;
+}
+
 .button_submit {
     width: 200px;
     background-color: #82ed91;
     font-weight: bolder;
     margin-bottom: 30px;
 }
+

@@ -10,10 +10,10 @@ const Body = () => {
     <>
       <Container>
         <center>
-          <h2 className="first_content">See how Trulia can help</h2>
+          <h2 className="first_content">See how Ultimate Ventures can help</h2>
           <Row>
             <Col xs={12} md={12}>
-              Real Estate Agent based in Protaras, Larnaca, Limassol & Paphos
+              Real Estate Agent based in Dublin, Cork, Galway & Limerick
               offering an Independent Property Service. With our global
               marketing and experienced property consultants we offer a full
               service. Please do not hesitate to contact us for any advice or
