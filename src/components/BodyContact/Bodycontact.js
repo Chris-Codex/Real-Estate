@@ -1,7 +1,6 @@
-import React from "react";
+import Reac from "react";
 import "./bodycontact.css";
 import { Container, Row, Col, Form, Button } from "react-bootstrap";
-import { FaPhoneAlt } from "react-icons/fa";
 import { FaMedium } from "react-icons/fa";
 import logoAfrica from "../Images/mapAfrica.png";
 

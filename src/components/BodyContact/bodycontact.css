@@ -5,7 +5,10 @@
 
 .section-contact {
     background-color: #f53636;
-    height: 150px;
+}
+
+.fa-mail {
+    margin-left: 30px;
 }
 
 .form_control_one {

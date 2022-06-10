@@ -1,0 +1,30 @@
+.footer-div {
+    background-color: #f7f7f7;
+    
+}
+
+.footer-row {
+    margin-top: 40px;
+    list-style: none;
+    
+}
+
+.footer-rows {
+    margin-top: 40px;
+    list-style: none;
+}
+
+
+.footer-row-li-one {
+    margin-left: 280px;
+    float: right;
+}
+
+.footer-row-li-two {
+    margin-left: 240px;
+    float: right;
+}
+
+.footer-row-li-three {
+    margin-left: 170px;
+}
